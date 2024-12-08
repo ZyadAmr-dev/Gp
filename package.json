@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@huggingface/inference": "^2.8.1",
+    "@huggingface/transformers": "^3.1.2",
+    "@xenova/transformers": "^2.17.2",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7",
+    "sharp": "^0.33.5"
+  },
+  "name": "gp-search",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
